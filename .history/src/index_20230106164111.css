@@ -1,9 +1,8 @@
 body {
   margin: 0;
-  font-family: "Roboto", Arial !important;
+  font-family: "Roboto", Arial;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: grey;
 }
 
 code {
