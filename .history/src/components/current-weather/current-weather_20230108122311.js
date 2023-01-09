@@ -12,7 +12,7 @@ const CurrentWeather = () => {
         <img
           alt="weather"
           className=" weather-icon"
-          
+          style={{ width: "100px", height: "100%" }}
           src={iicon}
         />
       </div>
